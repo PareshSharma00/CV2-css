@@ -10,4 +10,4 @@ Blog: In my blog, I share my thoughts and experiences related to my goals, hobbi
 
 Contact: If you would like to get in touch with me, please feel free to use the contact form on my website. I look forward to connecting with you!
 
-Thank you for visiting my personal website. I hope you find it informative and inspiring. you can visit my website from
+Thank you for visiting my personal website. I hope you find it informative and inspiring. you can visit my website from  https://pareshsharma00.github.io/CV2-css/
